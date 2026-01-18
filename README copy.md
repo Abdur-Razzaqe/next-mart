@@ -1,8 +1,9 @@
 NextMart
 
 Project Description:
-NextMart is a modern and responsive e-commerce web application built using Next.js (App Router), Tailwind CSS, and DaisyUI.
-Users can browse products, filter by category, view product details, and add new products using a mock authentication system.
+Next Mart allows users to browse products, view product details, filter products by category, and manage products using a simple mock authentication system.
+Logged-in users can add and delete products, which are stored locally using localStorage.
+The application is fully responsive and optimized for modern browsers.
 
 Setup & Installation
 
@@ -55,3 +56,5 @@ Tailwind CSS
 DaisyUI
 react-hot-toast
 LocalStorage & Cookies
+
+Live Link: https://next-mart-one.vercel.app/
