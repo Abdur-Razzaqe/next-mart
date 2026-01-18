@@ -13,8 +13,10 @@ export default function LoginForm() {
     e.preventDefault();
     if (email === "admin@gmail.com" && password === "123456") {
       document.cookie = "auth=true; path=/";
+      window.dispatchEvent(new Event("authChange"));
       router.push("/products");
     } else {
+      setError("Invalid email or password");
     }
   };
 

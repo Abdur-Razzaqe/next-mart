@@ -12,14 +12,26 @@ const Navbar = () => {
 
   // Check login status from cookie
   useEffect(() => {
-    const auth = Cookies.get("auth");
-    setIsLoggedIn(auth === "true");
+    const checkAuth = () => {
+      const auth = Cookies.get("auth");
+      setIsLoggedIn(auth === "true");
+    };
+
+    checkAuth();
+
+    window.addEventListener("authChange", checkAuth);
+
+    return () => {
+      window.removeEventListener("authChange", checkAuth);
+    };
   }, []);
 
   const handleLogout = () => {
     Cookies.remove("auth");
     setIsLoggedIn(false);
-    router.push("/login");
+
+    window.dispatchEvent(new Event("authChange"));
+    router.push("/");
   };
 
   const nav = (
