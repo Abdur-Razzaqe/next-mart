@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro",
+    "category": "Laptops",
+    "description": "Laptop Pro is a high-performance laptop built for professionals, developers, and creative users who demand speed and reliability. It features a powerful processor, fast SSD storage, and ample RAM to handle multitasking, coding, video editing, and graphic design with ease. The sleek and durable design makes it suitable for both office and remote work. Its high-resolution display delivers sharp visuals, while the long-lasting battery ensures uninterrupted productivity throughout the day. Laptop Pro is an excellent choice for users who need a reliable machine for intensive workloads, professional tasks, and everyday computing.",
+    "price": 1200,
+    "rating": 4.7,
+    "reviews": [
+      "Excellent performance for development work.",
+      "Battery life is impressive and build quality is solid."
+    ],
+    "image": "https://i.ibb.co.com/PG5xWVMr/2148459488.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone X",
+    "category": "phones",
+    "description": "Smartphone X is a modern and powerful smartphone designed for speed, photography, and daily productivity. It features a high-quality camera system that captures sharp photos and vibrant videos in any lighting condition. The smooth performance ensures fast app launching, gaming, and multitasking without lag. Its sleek design feels premium in hand, while the bright display offers an excellent viewing experience for streaming and browsing. With long battery life and fast charging support, Smartphone X is perfect for users who want reliability, style, and performance in a single device.",
+    "price": 900,
+    "rating": 4.6,
+    "reviews": [
+      "Camera quality is amazing.",
+      "Very smooth performance and elegant design."
+    ],
+    "image": "https://i.ibb.co.com/BKtRzr45/2430753-334542-PA888-S-155.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "category": "Accessories",
+    "description": "These wireless headphones are designed to deliver immersive sound quality with deep bass and clear vocals. Active noise cancellation helps block out background noise, making them ideal for travel, work, and study. The lightweight and comfortable design allows long listening sessions without discomfort. With a long-lasting battery and quick charging support, you can enjoy uninterrupted music throughout the day. Seamless Bluetooth connectivity ensures stable pairing with smartphones, laptops, and tablets. These headphones are perfect for music lovers who value comfort, sound quality, and convenience.",
+    "price": 250,
+    "rating": 4.5,
+    "reviews": [
+      "Noise cancellation works very well.",
+      "Comfortable even after long use."
+    ],
+    "image": "https://i.ibb.co.com/4RW2tz6c/96804.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "category": "Watch",
+    "description": "The Smart Watch is a versatile wearable device designed to support a healthy and active lifestyle. It tracks daily activities such as steps, calories, heart rate, and sleep patterns. The watch features a clean and modern interface that is easy to navigate. Notifications for calls, messages, and apps keep you connected throughout the day. Its lightweight and stylish design makes it suitable for both workouts and casual wear. With a durable build and long battery life, this smart watch is a reliable companion for everyday use.",
+    "price": 199,
+    "rating": 4.4,
+    "reviews": [
+      "Very useful for fitness tracking.",
+      "Clean design and smooth interface."
+    ],
+    "image": "https://i.ibb.co.com/KjTWbccQ/8274327-3862393.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Mouse",
+    "category": "Accessories",
+    "description": "This gaming mouse is built for precision, speed, and comfort, making it ideal for both casual and competitive gamers. It features high-accuracy sensors that provide smooth and responsive cursor movement. The ergonomic design ensures a comfortable grip even during long gaming sessions. Customizable buttons allow users to personalize controls for different games. The durable build quality ensures long-term performance. Whether gaming or working, this mouse delivers excellent control, accuracy, and comfort for extended use.",
+    "price": 59,
+    "rating": 4.3,
+    "reviews": [
+      "Great accuracy and grip.",
+      "Very comfortable for long gaming sessions."
+    ],
+    "image": "https://i.ibb.co.com/dsqTv500/2151924152.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mechanical Keyboard",
+    "category": "Accessories",
+    "description": "The mechanical keyboard is designed for users who value typing accuracy, durability, and tactile feedback. It features high-quality mechanical switches that provide a satisfying typing experience and fast response time. Ideal for programmers, writers, and gamers, this keyboard ensures comfort during long hours of use. The sturdy build enhances durability, while the customizable RGB lighting adds a modern touch. With precise key travel and solid construction, this mechanical keyboard improves productivity and performance for both work and gaming environments.",
+    "price": 129,
+    "rating": 4.6,
+    "reviews": ["Typing experience is excellent.", "RGB lighting looks great."],
+    "image": "https://i.ibb.co.com/Dj1dDC0/2149347282.jpg"
+  },
+  {
+    "id": 7,
+    "name": "4K Monitor",
+    "category": "Monitors",
+    "description": "This 4K monitor delivers ultra-high-definition visuals with sharp details and vibrant colors. It is perfect for designers, video editors, and content creators who need accurate color reproduction. The large display provides ample screen space for multitasking and productivity. Smooth performance and wide viewing angles ensure a comfortable viewing experience. Whether for professional work, gaming, or entertainment, this monitor offers excellent clarity and visual quality that enhances every task.",
+    "price": 450,
+    "rating": 4.7,
+    "reviews": [
+      "Crystal clear display quality.",
+      "Perfect for design and editing work."
+    ],
+    "image": "https://i.ibb.co.com/S42JPZdY/2150757539.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Bluetooth Speaker",
+    "category": "Accessories",
+    "description": "The Bluetooth speaker is a portable audio device designed to deliver rich sound and deep bass. Its compact design makes it easy to carry for travel, outdoor activities, and gatherings. With strong wireless connectivity, it pairs quickly with smartphones and other devices. The long battery life ensures hours of uninterrupted music playback. Built with durable materials, the speaker is suitable for both indoor and outdoor use. It is an excellent choice for users who enjoy music on the go.",
+    "price": 89,
+    "rating": 4.4,
+    "reviews": ["Sound quality is very good.", "Portable and easy to carry."],
+    "image": "https://i.ibb.co.com/VWBpw7Tj/2150171764.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tablet Plus",
+    "category": "Tablets",
+    "description": "Tablet Plus is a lightweight and versatile device suitable for reading, browsing, streaming, and entertainment. The large display offers a comfortable viewing experience for videos and articles. Its smooth performance allows easy multitasking and app usage. With a slim and portable design, it is easy to carry anywhere. The long battery life supports daily use without frequent charging. Tablet Plus is ideal for students, casual users, and anyone looking for a reliable device for everyday digital needs.",
+    "price": 350,
+    "rating": 4.3,
+    "reviews": [
+      "Very handy for reading and browsing.",
+      "Battery lasts long enough for daily use."
+    ],
+    "image": "https://i.ibb.co.com/Y4bn07Lz/apple-iphone-6-s-plus-a1687-3785988-1280.jpg"
+  },
+  {
+    "id": 10,
+    "name": "External Hard Drive",
+    "category": "Storage",
+    "description": "This external hard drive provides reliable and secure data storage for personal and professional use. It offers fast data transfer speeds, making it easy to back up files, photos, and videos. The compact and portable design allows users to carry important data anywhere. It is compatible with multiple devices and operating systems. Built for durability and long-term use, this hard drive is an excellent solution for storing large amounts of data safely and efficiently.",
+    "price": 99,
+    "rating": 4.5,
+    "reviews": ["Fast data transfer speed.", "Very reliable for backups."],
+    "image": "https://i.ibb.co.com/JDdHctD/external-hard-drive-4774699-1280.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Webcam HD",
+    "category": "Accessories",
+    "description": "The HD webcam is designed for clear video calls, online meetings, and live streaming. It delivers sharp video quality with accurate colors, making communication more professional. Easy plug-and-play setup allows quick installation without additional software. The compact design fits perfectly on laptops and monitors. Ideal for remote work, online classes, and content creation, this webcam ensures reliable performance and consistent video quality for everyday use.",
+    "price": 75,
+    "rating": 4.2,
+    "reviews": ["Good video quality for meetings.", "Easy to set up and use."],
+    "image": "https://i.ibb.co.com/fzLfg6f0/camera-1219748-1280.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Power Bank",
+    "category": "Accessories",
+    "description": "The power bank is a portable charging solution designed to keep devices powered throughout the day. It offers fast charging support and can charge multiple devices such as smartphones and tablets. The compact and lightweight design makes it easy to carry while traveling. Built-in safety features protect devices from overheating and overcharging. With reliable performance and long-lasting capacity, this power bank is an essential accessory for users who are always on the move.",
+    "price": 49,
+    "rating": 4.4,
+    "reviews": ["Very useful while traveling.", "Charges devices quickly."],
+    "image": "https://i.ibb.co.com/HfDMC986/Pngtree-power-bank-electrical-technology-portable-6840763.png"
+  }
+]
