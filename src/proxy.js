@@ -2,9 +2,9 @@ import { NextResponse } from "next/server";
 
 // This function can be marked `async` if using `await` inside
 export function proxy(request) {
-  const isLoggedin = request.cookies.get("auth")?.value == "true";
+  const isLoggedIn = request.cookies.get("auth")?.value == "true";
 
-  if (!isLoggedin) {
+  if (!isLoggedIn) {
     return NextResponse.redirect(new URL("/login", request.url));
   }
 
@@ -15,5 +15,5 @@ export function proxy(request) {
 // export default function proxy(request) { ... }
 
 export const config = {
-  matcher: "/dashboard/:path*",
+  matcher: "/app/:path*",
 };
